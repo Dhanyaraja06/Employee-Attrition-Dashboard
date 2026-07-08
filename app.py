@@ -479,7 +479,7 @@ if page == " Home":
 """)
     st.markdown('<div class="section-title">Machine Learning Workflow</div>',unsafe_allow_html=True)
     st.markdown("---")
-    st.image("assets/workflow.png",use_container_width=True)
+    st.image("assets/workFlow.png",use_container_width=True)
 
     st.markdown('<div class="section-title">Developer Information</div>',unsafe_allow_html=True)
     st.markdown("---")
