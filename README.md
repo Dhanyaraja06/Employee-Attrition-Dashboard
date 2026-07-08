@@ -2,7 +2,7 @@
 
 An AI-powered Human Resource Analytics platform built using **Machine Learning**, **Streamlit**, and **Python** to help HR professionals identify employees who are at risk of leaving the organization.
 
-🔗 **Live Demo:** https://YOUR-STREAMLIT-LINK.streamlit.app
+🔗 **Live Demo:** https://employee-attrition-dashboard-kefrmgwcyx39rtscubbt7p.streamlit.app/
 
 🔗 **GitHub Repository:** https://github.com/Dhanyaraja06/Employee-Attrition-Dashboard
 
