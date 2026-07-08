@@ -630,7 +630,7 @@ Key workforce metrics and employee insights
         <div class="kpi-card">
             <div class="kpi-icon"></div>
             <div class="kpi-title"> Total Employees</div>
-            <div class="kpi-value">{len(df)}</div>
+            <div class="kpi-value">{total_employees}</div>
         </div>
         """, unsafe_allow_html=True)
 
@@ -654,8 +654,8 @@ Key workforce metrics and employee insights
          st.markdown(f"""
         <div class="kpi-card">
             <div class="kpi-icon"></div>
-            <div class="kpi-title">Employees Lest</div>
-            <div class="kpi-value">{len(df)}</div>
+            <div class="kpi-title">Employees Left</div>
+            <div class="kpi-value">{employees_left}</div>
         </div>
         """, unsafe_allow_html=True)
 
@@ -672,7 +672,7 @@ Key workforce metrics and employee insights
 
         # <h4> Attrition Rate</h4>
 
-        # <h1 style="color:#1976D2;">{attrition_rate:.2f}</h1>
+        # <h1 style="color:#1976D2;">{attrition_rate:.2f}%</h1>
 
         # </div>
         # """, unsafe_allow_html=True)
@@ -680,7 +680,7 @@ Key workforce metrics and employee insights
         <div class="kpi-card">
             <div class="kpi-icon"></div>
             <div class="kpi-title">Attrition Rate</div>
-            <div class="kpi-value">{len(df)}</div>
+            <div class="kpi-value">{attrition_rate:.2f}</div>
         </div>
         """, unsafe_allow_html=True)
     st.write("")
@@ -706,7 +706,7 @@ Key workforce metrics and employee insights
         <div class="kpi-card">
             <div class="kpi-icon"></div>
             <div class="kpi-title">Average Salary</div>
-            <div class="kpi-value">{len(df)}</div>
+            <div class="kpi-value">₹{average_income:,.0f}</div>
         </div>
         """, unsafe_allow_html=True)
 
@@ -731,7 +731,7 @@ Key workforce metrics and employee insights
         <div class="kpi-card">
             <div class="kpi-icon"></div>
             <div class="kpi-title">Average Age</div>
-            <div class="kpi-value">{len(df)}</div>
+            <div class="kpi-value">{average_age:.2f}</div>
         </div>
         """, unsafe_allow_html=True)
 
