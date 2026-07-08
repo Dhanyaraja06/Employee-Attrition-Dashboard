@@ -34,7 +34,7 @@ The application provides an interactive dashboard, predictive analytics, and dow
 
 > Add Home Page Screenshot Here
 
-![Home](screenshots/home.png)
+![Home](assets/screenshots/home.png)
 
 ---
 
@@ -42,7 +42,7 @@ The application provides an interactive dashboard, predictive analytics, and dow
 
 > Add Dashboard Screenshot Here
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](assets/screenshots/dashboard.png)
 
 ---
 
@@ -50,7 +50,7 @@ The application provides an interactive dashboard, predictive analytics, and dow
 
 > Add Prediction Screenshot Here
 
-![Prediction](screenshots/prediction.png)
+![Prediction](assets/screenshots/prediction.png)
 
 ---
 
@@ -58,7 +58,7 @@ The application provides an interactive dashboard, predictive analytics, and dow
 
 > Add PDF Screenshot Here
 
-![Report](screenshots/report.png)
+![Report](assets/screenshots/report.png)
 
 ---
 
