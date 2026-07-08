@@ -1,0 +1,5 @@
+venv/
+__pycache__/
+*.pyc
+prediction_history.db
+employee_report.pdf
